@@ -12,8 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Mineralogy 
-## Header 2
-### Header 3
+## The place you come to be lost
+### A database to study minerals
 
 - Bulleted
 - List
